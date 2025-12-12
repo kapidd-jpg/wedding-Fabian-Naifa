@@ -1,14 +1,14 @@
 ## Adat Mantu
-# Aplikasi
+## Aplikasi
 
 Untuk mendapatkan APP_KEY jalankan php artisan key:generate
-
+---
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:SBdJtFovbTwCcVbnWsB/hXt3uwwe0GwihBjLygT93Ao=
 APP_DEBUG=true
 APP_URL=http://localhost
-
+---
 # MySQL
 
 Pastikan sudah ada database MySQL yang berjalan. Untuk migrasi jalankan perintah php artisan migrate. Untuk paksa migrasi maka jalankan perintah php artisan migrate:fresh
