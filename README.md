@@ -11,9 +11,9 @@ Contoh environment variable untuk aplikasi:
 
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=...
+APP_KEY= . . .
 APP_DEBUG=true
-APP_URL=http://localhost
+APP_URL=[http://localhost](https://mantuxipplg4.smktelkom-pwt.sch.id)
 
 
 ---
